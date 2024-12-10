@@ -1,0 +1,6 @@
+# Testing and coverage tools
+coverage==7.6.9          # Latest version of coverage
+mutmut==3.2.2            # Latest version of mutmut
+cloc==0.2.5               # Latest version of cloc
+pytest==8.3.4
+
